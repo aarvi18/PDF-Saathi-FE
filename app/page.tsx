@@ -1,5 +1,4 @@
 import Footer from "@/components/layouts/Footer";
-import { Header } from "@/components/layouts/Header";
 import Hero from "@/components/layouts/Hero";
 import NavigationBar from "@/components/layouts/NavigationBar";
 
